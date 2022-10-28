@@ -5,7 +5,7 @@ This repository contains script that gets the JSON data and divides it into two 
 
 Linux
 
-First step
+First step (cloning github repo)
 ```
 git clone https://github.com/yashk1/Data_Engineer_takehome.git
 ```
@@ -19,9 +19,14 @@ Third step
 chmod u+r+x get_data_and_transform_script.py   
 ```
 
-Fourth step 
+Fourth step (installing requirements)
 ```
-. ./run.sh
+pip3 install -r requirements.txt
 ```
 
+
+Fifth step (run the script)
+```
+python3 get_data_and_transform_script.py
+```
 
