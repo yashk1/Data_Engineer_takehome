@@ -24,11 +24,4 @@ Fourth step
 . ./run.sh
 ```
 
-Otherwise, install the requirements 
-1. pandas==1.4.3
-2. requests==2.28.1
-3. pydantic==1.9.1
-And run
-```
-./get_data_and_transform_script.py
-```
+
