@@ -4,7 +4,7 @@ from pandas import json_normalize
 import inflection
 
 
-with jsonlines.open('/Users/yash/github/Data_Engineer_takehome/ga_sessions_20160801_(2)_(1)_(1)_(1) copy.json', 'r') as jsonl_f:
+with jsonlines.open('ga_sessions_20160801_(2)_(1)_(1)_(1) copy.json', 'r') as jsonl_f:
      lst = [obj for obj in jsonl_f]
 
 
