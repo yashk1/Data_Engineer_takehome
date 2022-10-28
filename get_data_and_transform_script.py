@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import jsonlines
 import pandas as pd
 from pandas import json_normalize
