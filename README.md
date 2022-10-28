@@ -3,7 +3,7 @@ This repository contains script that gets the JSON data and divides it into two 
 
 ## Steps to run the project
 
-Linux
+Open terminal and run following commands
 
 First step (cloning github repo)
 ```
