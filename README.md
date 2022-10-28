@@ -27,6 +27,6 @@ pip3 install -r requirements.txt
 
 Fifth step (run the script)
 ```
-python3 get_data_and_transform_script.py
+python3 ./get_data_and_transform_script.py
 ```
 
